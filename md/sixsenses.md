@@ -33,6 +33,7 @@
 <hr>
 
 * 제목을 기준으로 게시글 검색하기
+    * 팀원의 게시글 검색 기능 만들어 주기  
     * ```java
         List<Notice> notices = noticeRepository.findByTitleContaining(keyword);
       ```  
