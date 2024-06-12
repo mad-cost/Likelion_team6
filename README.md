@@ -40,27 +40,6 @@ Q&A 만들기 - 1명 <br>
 그리고 중고 도서를 효율적으로 거래하고 싶어하는 사용자의 요구도 있습니다.<br> 
 이러한 문제를 해결하기 위해 사용자 중심의 도서 관리 시스템의 필요성이 대두되었습니다.
 
-## 스택 ⚙
-* Spting Boot 3.2.1
-* Spring Data JPA
-* MySql Driver
-* Thymeleaf
-* OAuth2 Client
-* Spring Security
-* JWT
-
-## 파트 분배 🙋
-팀원 - 5명 <br>
-로그인 기능 만들기 - 1명 <br>
-메인 페이지 및 프론트 관리 - 1명 <br>
-공지사항 만들기 - 1명 <br>
-Q&A 만들기 - 1명 <br>
-내 위치를 기반으로 주변의 도서관을 찾고, 대여할 수 있는 책 정보 가져오기 - 1명 <br>
-
-## 내가 만든 기능 💻
-* 로그인 기능 
-* 공지사항의 검색 기능
-
 ## 내가 만든 기능 간략히 보기 👀
 [여기를 눌러 주세요](https://github.com/mad-cost/Likelion_team6/blob/main/md/sixsenses.md "Click")
 
