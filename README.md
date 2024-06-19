@@ -18,11 +18,11 @@
 Q&A - 1명 <br>
 도서 API - 1명 <br>
 
-## 내가 만든 기능 💻
+## 담당한 기능 💻
 * 로그인 기능 
 * 검색 기능
 
-## 내가 만든 기능 간략히 보기 👀
+## 담당한 기능 보기 👀
 [여기를 눌러 주세요](https://github.com/mad-cost/Likelion_team6/blob/main/md/sixsenses.md "Click")
 
 ## 회고 🤔
